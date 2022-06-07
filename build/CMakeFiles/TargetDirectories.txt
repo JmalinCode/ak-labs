@@ -1,0 +1,4 @@
+/home/anton/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/anton/calculator/build/CMakeFiles/edit_cache.dir
+/home/anton/calculator/build/CMakeFiles/main.dir
+/home/anton/calculator/build/CMakeFiles/calculator.dir
